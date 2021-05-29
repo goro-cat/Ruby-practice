@@ -1,0 +1,2 @@
+name ="やまがた"
+puts name
